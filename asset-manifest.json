@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/videocall-audiocall-screenshare-chat/static/css/main.dfa5c60d.chunk.css",
+    "main.js": "/videocall-audiocall-screenshare-chat/static/js/main.47a333ba.chunk.js",
+    "main.js.map": "/videocall-audiocall-screenshare-chat/static/js/main.47a333ba.chunk.js.map",
+    "runtime-main.js": "/videocall-audiocall-screenshare-chat/static/js/runtime-main.6ba6e4ea.js",
+    "runtime-main.js.map": "/videocall-audiocall-screenshare-chat/static/js/runtime-main.6ba6e4ea.js.map",
+    "static/js/2.c07367c9.chunk.js": "/videocall-audiocall-screenshare-chat/static/js/2.c07367c9.chunk.js",
+    "static/js/2.c07367c9.chunk.js.map": "/videocall-audiocall-screenshare-chat/static/js/2.c07367c9.chunk.js.map",
+    "index.html": "/videocall-audiocall-screenshare-chat/index.html",
+    "precache-manifest.8b2562b337c0d22d9c3d0e2d33df171a.js": "/videocall-audiocall-screenshare-chat/precache-manifest.8b2562b337c0d22d9c3d0e2d33df171a.js",
+    "service-worker.js": "/videocall-audiocall-screenshare-chat/service-worker.js",
+    "static/css/main.dfa5c60d.chunk.css.map": "/videocall-audiocall-screenshare-chat/static/css/main.dfa5c60d.chunk.css.map",
+    "static/js/2.c07367c9.chunk.js.LICENSE.txt": "/videocall-audiocall-screenshare-chat/static/js/2.c07367c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ba6e4ea.js",
+    "static/js/2.c07367c9.chunk.js",
+    "static/css/main.dfa5c60d.chunk.css",
+    "static/js/main.47a333ba.chunk.js"
+  ]
+}
